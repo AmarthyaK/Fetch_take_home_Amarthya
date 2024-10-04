@@ -1,0 +1,5 @@
+MYSQL_credentials:
+  user: root
+  password: switchitonK41!
+  host: localhost
+  port: 3306
