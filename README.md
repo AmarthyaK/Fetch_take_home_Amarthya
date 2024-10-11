@@ -7,6 +7,8 @@ parsing_json_ex1: Parse the raw JSON data, perform normalization, and export the
 DateQualityIssues_Loading_Data_ex2: Conduct data quality checks, exploratory data analysis (EDA), and load the cleaned data into MySQL.
 query_1_2_ex3, query_3_4_ex4, query_5_6_ex5: Execute SQL scripts to address the business questions based on the data in MySQL.
 
+For a better understanding of the project flow, I recommend that readers follow this order: Part 1 first, Part 3 second, Part 2 third, and Part 4 last. Although the naming convention is sequential, it would be more logical to discuss data quality issues before addressing the business questions. This will provide important context and help frame the analysis that follows. 
+
 File and Folder Explanation:
 
 Data_sources: This folder contains the raw JSON data sources.
