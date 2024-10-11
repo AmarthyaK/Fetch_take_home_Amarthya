@@ -14,8 +14,12 @@ File and Folder Explanation:
 Data_sources: This folder contains the raw JSON data sources.
 Dependencies: A file listing all the Python libraries required. Reviewers should ensure they have these libraries installed before running the code.
 MYSQL_user_config: Contains MySQL server configurations, including parameters such as user, host, password, and port.
+MYSQL_config_reference_image: Reference image to obtain MYSQL config information.
+
 Important:
 Before running any queries, ensure that MySQL is running.
+
+
 To check this:
 
 Press Win + R -> Type services.msc -> Ensure MYSQL80 is running.
