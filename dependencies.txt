@@ -1,7 +1,15 @@
 ##The following is the list of all packages used for this coding assessment.
+
 pandas
 numpy
 os
 json
 jsonlines
+datetime
+great_expectations
+sqlalchemy
+pymysql
+yaml
+warnings
+prettytable
 
