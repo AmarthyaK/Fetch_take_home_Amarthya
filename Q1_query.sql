@@ -30,5 +30,3 @@ SELECT Brand, ReceiptCount, BrandRank
 FROM COUNT_BRAND_RECEIPTS
 WHERE BrandRank <= 5
 ORDER BY BrandRank ASC;
-
-dfdf;
